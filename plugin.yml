@@ -1,0 +1,5 @@
+name: longLiveSanta
+main: lls.Main
+version: 0.1
+commands:
+  perks:
